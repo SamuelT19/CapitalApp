@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812762145706",
+    "project_id": "ridesh-541e7",
+    "storage_bucket": "ridesh-541e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812762145706:android:077dd68ff3587144c501d3",
+        "android_client_info": {
+          "package_name": "com.twof.ride_capital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALoWPakTnaTchO-boMFuf-EpLS36gSF3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

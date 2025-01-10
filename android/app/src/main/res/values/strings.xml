@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Ride Capital</string>
-    <string name="title_activity_main">Ride Capital</string>
+    <string name="app_name">Ride Shop</string>
+    <string name="title_activity_main">Ride Shop</string>
     <string name="package_name">com.twof.ride_capital</string>
     <string name="custom_url_scheme">com.twof.ride_capital</string>
 </resources>
