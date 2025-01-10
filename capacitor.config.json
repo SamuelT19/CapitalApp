@@ -1,9 +1,0 @@
-{
-  "appId": "com.twof.ride_capital",
-  "appName": "Ride Capital",
-  "webDir": "www",
-  "server": {
-    "url": "http://167.172.191.237:5443/",
-    "cleartext": true 
-  }
-}
